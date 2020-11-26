@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sergio Guzman</h1>
 <h3 align="center">A passionate junior developer with intermidiate knowledge in Java and Python who is 1 year away from getting his degree in Systems Engineering.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sergio-guzman-xk&label=Profile%20views&color=0e75b6&style=flat" alt="sergio-guzman-xk" /> </p>
-
 - 🌱 I’m currently learning **Python, and later on Machine Learning.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sergio-guzman-xk](https://github.com/sergio-guzman-xk)
