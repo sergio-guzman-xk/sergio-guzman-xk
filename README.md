@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python, and later on Machine Learning.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sergio-guzman-xk](https://github.com/sergio-guzman-xk)
+- 👨‍💻 All of my projects are available at [https://github.com/sergio-guzman-xk?tab=repositories](https://github.com/sergio-guzman-xk?tab=repositories)
 
 - 📫 How to reach me **sgioguzman@gmail.com**
 
